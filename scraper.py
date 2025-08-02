@@ -7,7 +7,7 @@ import time
 # =============================
 # CONFIGURATION
 # =============================
-YOUTUBE_API_KEY = "AIzaSyANTHOonjY6lks5i7qJBv0hycZkv7uqIo8"  # set in terminal: export YOUTUBE_API_KEY="your_key"
+YOUTUBE_API_KEY = "NA"  # set in terminal: export YOUTUBE_API_KEY="your_key"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
